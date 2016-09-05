@@ -6,9 +6,33 @@
     android:background="@android:color/holo_orange_dark"
     tools:context="com.example.android.halloweencard.MainActivity">
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ghost" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:padding="30dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textSize="56sp"
+        android:textColor="@android:color/black"
+        android:text="BOO!" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:padding="30dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textSize="34sp"
+        android:textColor="@android:color/black"
         android:text="Happy Halloween!" />
 
 </RelativeLayout>
