@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Burning the Midnight Oil</string>
+    <string name="header_text">Burning the Midnight Oil</string>
+    <string name="description">Burning the Midnight Oil is a book store open for late night reading. Finish a book in the middle of the night and need the next book in the series? We\'ve got you.</string>
 </resources>
