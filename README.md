@@ -11,3 +11,6 @@ A repo to collect my android practice projects.
 <br clear="left">
 ### Burning the Midnight Oil
 <img src="https://github.com/RiRam/android-basics/blob/master/Images/burningthemidnightoil.png" width="144px" height="256px" align="left" /> Project 1 for the Udacity Android Basics Nanodegree: Build a Single Screen App. The prompt asks "Design and implement a single screen app that displays information about a fictional small business.", I created a one page app with information about a ficticious late-night book store. The app consists of a RelativeLayout, one ImageView, and five TextViews. 
+<br clear="left">
+### Court Counter
+<img src="https://github.com/RiRam/android-basics/blob/master/Images/courtcounter.png" width="144px" height="256px" align="left" /> The sample project for lesson 2, created by following along with the tutorial. It consists of several nested layouts, a RelativeLayout and three LinearLayouts nested beneath it, with four TextViews and seven Buttons. The goal of the app is to count points in a game of basketball, and it allows free throws, 2 point, and 3 point shots to be scored, and you can reset the counts by pressing "reset" at the bottom".
