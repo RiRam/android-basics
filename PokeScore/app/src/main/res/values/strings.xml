@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokéScore</string>
+    <string name="player_one">Player 1</string>
+    <string name="player_two">Player 2</string>
+    <string name="reset">Reset</string>
+    <string name="take_one_prize">Take One Prize</string>
+    <string name="take_two_prizes">Take Two Prizes</string>
+</resources>
