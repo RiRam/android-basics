@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Turtle Quiz!</string>
+    <string name="welcome">Welcome to Turtle Quiz!</string>
+    <string name="answer">Answer</string>
+    <string name="submit">Submit</string>
+
+    <!-- Question 1 -->
+    <string name="question_1">1. Turtles are ___.</string>
+
+    <string name="q1_a1">mammals</string>
+    <string name="q1_a2">reptiles</string>
+    <string name="q1_a3">amphibians</string>
+
+    <!-- Question 2 -->
+    <string name="question_2">2. Turtles are silent creatures.</string>
+
+    <string name="q2_a1">True</string>
+    <string name="q2_a2">False</string>
+
+    <!-- Question 3 -->
+    <string name="question_3">3. Turtles can be ___.</string>
+
+    <string name="q3_a1">herbivores</string>
+    <string name="q3_a2">omnivores</string>
+    <string name="q3_a3">carnivores</string>
+
+    <!-- Question 4 -->
+    <string name="question_4">4. An animal that is similar to a turtle but lives on land is called a ___.</string>
+
+    <string name="q4_a">tortoise</string>
+
+    <!-- Question 5 -->
+    <string name="question_5">5. Turtles live on every continent except ___.</string>
+
+    <string name="q5_a1">Europe</string>
+    <string name="q5_a2">Australia</string>
+    <string name="q5_a3">Antarctica</string>
+
+    <!-- Question 6 -->
+    <string name="question_6">6. Turtles lay eggs.</string>
+
+    <string name="q6_a1">True</string>
+    <string name="q6_a2">False</string>
+
+    <!-- Question 7 -->
+    <string name="question_7">7. Turtles are ___ blooded.</string>
+
+    <string name="q7_a">cold</string>
+
+    <!-- Question 8 -->
+    <string name="question_8">8. The largest turtle is the ___ turtle.</string>
+
+    <string name="q8_a1">Leatherback</string>
+    <string name="q8_a2">Loggerhead</string>
+    <string name="q8_a3">Box</string>
+</resources>
